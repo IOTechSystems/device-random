@@ -48,7 +48,7 @@ FailWaitTime = 10
   ProfilesDir = "./res"
 
 [Logging]
-EnableRemote = true
+EnableRemote = false
 File = "/edgex/logs/device-random.log"
 Level = "INFO"
 
