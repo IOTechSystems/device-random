@@ -1,5 +1,5 @@
 [Service]
-Host = "device-random"
+Host = "edgex-device-random"
 Port = 49988
 ConnectRetries = 3
 Labels = []
