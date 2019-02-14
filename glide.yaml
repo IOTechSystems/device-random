@@ -1,12 +1,12 @@
 package: github.com/edgexfoundry/device-random
 import:
 - package: github.com/edgexfoundry/device-sdk-go
-  version: v1.1-branch
+  version: v1.1.2
   subpackages:
   - /pkg/models
   - /pkg/startup
 - package: github.com/edgexfoundry/edgex-go
-  version: v1.1-branch
+  version: v1.1.2
   subpackages:
   - /pkg/models
   - /pkg/clients/logging
